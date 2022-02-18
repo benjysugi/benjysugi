@@ -4,8 +4,6 @@
 
 #### I'm an experienced programmer in multiple languages and I've been programming since I was around 5-6 (10 years of experience)
 
-My first programming language was VB
-
 ### The programming languages I'm fluent in are:
 - C++
 - C#
@@ -25,6 +23,7 @@ My first programming language was VB
 
 - 📽️ Director of VAVE's upcoming game, Project W3
 - 👯 My other projects include the VDev game engine and various other projects.
+- 🚁 Lead programmer of the THETA Drone AI project
 - 💬 I *may* be open for commissions or contracting, please contact me via Discord for more info.
 - 📫 My [Discord](https://discord.gg/zAT7gKdxA6) server
 - ⚡ My website: https://vavestudios.com
