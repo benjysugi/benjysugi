@@ -13,7 +13,7 @@
 - [LINGO](https://en.wikipedia.org/wiki/Lingo_(programming_language))
 - Fortran 77
 - Lua
-- Python (though I don't like to use it unless I have to)
+- Python (though I don't like to use it unless I have to, python bad)
 - Delphi
 - ActionScript
 - Go
