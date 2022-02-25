@@ -18,12 +18,13 @@
 - ActionScript
 - Go
 
+##### My main focus is usually games and software, but I occasionally do AI
 
 ### More about me:
 
 - 📽️ Director of VAVE's upcoming game, Project W3
 - 👯 My other projects include the VDev game engine and various other projects.
-- 🚁 Lead programmer of the THETA Drone AI project
+- 🤖 Hobbyist AI programmer
 - 💬 I *may* be open for commissions or contracting, please contact me via Discord for more info.
 - 📫 My [Discord](https://discord.gg/zAT7gKdxA6) server
 - ⚡ My website: https://vavestudios.com
