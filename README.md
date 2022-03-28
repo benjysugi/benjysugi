@@ -31,3 +31,5 @@ I sometimes do x86 asm but i'm not the best at it
 - 📫 My [Discord](https://discord.gg/zAT7gKdxA6) server
 - ⚡ My website: https://vavestudios.com
 - If you want to apply for a position at VAVE, join our Discord server above
+
+my github stars are like my youtube watch later, theyre on there but i'll probably never touch 95% of them
