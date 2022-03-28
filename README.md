@@ -18,6 +18,8 @@
 - ActionScript
 - Go
 
+I sometimes do x86 asm but i'm not the best at it
+
 ##### My main focus is usually games and software, but I occasionally do AI
 
 ### More about me:
