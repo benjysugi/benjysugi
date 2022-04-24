@@ -46,3 +46,4 @@ my github stars are like my youtube watch later, theyre on there but i'll probab
 - Project Blue (On hold/possibly cancelled) - Late 2021
 - Project Eagle Peak (Cancelled adventure game) - Mid to late 2021
 - Project APEX (Cancelled ARPG) - Early to mid 2021
+- Project Enna (Cancelled ARPG) - Mid to late 2020
