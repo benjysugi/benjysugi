@@ -27,7 +27,7 @@
 my github stars are like my youtube watch later, theyre on there but i'll probably never touch 95% of them
 
 ### Some other random info about me:
-- Programmer, composer, gamedev, game engine dev, 3d artist, VFX artist
+- Programmer, composer, gamedev, software engineer, 3d artist, VFX artist
 - Age: 15 (Born 2006/07/15)
 - Co-founder of VAVE
 - Dreamcore/weirdcore/liminal space enthusiast
