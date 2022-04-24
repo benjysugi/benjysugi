@@ -37,3 +37,12 @@ my github stars are like my youtube watch later, theyre on there but i'll probab
 - [Discord](https://discord.gg/zAT7gKdxA6)
 - [Twitter](https://twitter.com/bnjyofficial)
 - [Website](https://vavestudios.com)
+
+### Some of my previous and current projects:
+- Project W3 (Current) - Upcoming sci-fi/horror puzzle game - Late 2021 to current
+- VDev (Current) - 3D game engine for VAVE games - Mid 2020 to current
+- Project Purple (On-hold point-and-click adventure game) - Early 2022
+- Project Green (Cancelled racing game) - Late 2021
+- Project Blue (On hold/possibly cancelled) - Late 2021
+- Project Eagle Peak (Cancelled adventure game) - Mid to late 2021
+- Project APEX (Cancelled ARPG) - Early to mid 2021
