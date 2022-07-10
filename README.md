@@ -38,6 +38,8 @@ my github stars are like my youtube watch later, theyre on there but i'll probab
 - [Twitter](https://twitter.com/bnjyofficial)
 - [Website](https://vavestudios.com)
 
+***note that i dont use instagram and any accounts claiming to be me are bullshit***
+
 ### Some of my previous and current projects:
 - Project W3 (Current) - Upcoming sci-fi/horror adventure game - Late 2021 to current
 - VDev (Current) - 3D game engine for VAVE games - Mid 2020 to current
