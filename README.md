@@ -42,8 +42,8 @@ my github stars are like my youtube watch later, theyre on there but i'll probab
 - Project W3 (Current) - Upcoming sci-fi/horror adventure game - Late 2021 to current
 - VDev (Current) - 3D game engine for VAVE games - Mid 2020 to current
 - Project Purple (On-hold point-and-click adventure game) - Early 2022
+#### Cancelled games
 - Project Green (Cancelled racing game) - Late 2021
-- Project Blue (On hold/possibly cancelled) - Late 2021
 - Project Eagle Peak (Cancelled adventure game) - Mid to late 2021
 - Project APEX (Cancelled ARPG) - Early to mid 2021
 - Project Enna (Cancelled ARPG) - Mid to late 2020
