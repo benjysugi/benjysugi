@@ -39,7 +39,7 @@ my github stars are like my youtube watch later, theyre on there but i'll probab
 - [Website](https://vavestudios.com)
 
 ### Some of my previous and current projects:
-- Project W3 (Current) - Upcoming sci-fi/horror puzzle game - Late 2021 to current
+- Project W3 (Current) - Upcoming sci-fi/horror adventure game - Late 2021 to current
 - VDev (Current) - 3D game engine for VAVE games - Mid 2020 to current
 - Project Purple (On-hold point-and-click adventure game) - Early 2022
 - Project Green (Cancelled racing game) - Late 2021
